@@ -19,7 +19,7 @@ public class Control {
 			else if (choice == 2) {
 				runOwner();
 			}
-			// user exits
+			// user exits 
 			else if (choice == 0) {
 				return;
 			}
